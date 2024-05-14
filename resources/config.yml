@@ -1,0 +1,13 @@
+funds:
+  coin-flips:
+    name: Coin Flips
+    type: money
+    goal: 500000000
+  auto-generators:
+    name: Auto Generators
+    type: money
+    goal: 1000000000
+  sacred-kits:
+    name: Sacred Kits
+    type: money
+    goal: 250000000
